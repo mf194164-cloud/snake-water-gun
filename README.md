@@ -1,2 +1,2 @@
 # snake-water-gun
-CLI mini-game in Python
+CLI mini-game in Python.
